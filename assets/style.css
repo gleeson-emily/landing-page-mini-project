@@ -1,9 +1,20 @@
 * {
     font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+
 }
 
 .header {
     position: fixed;
     width: 100%;
+    top: 0;
+    right: 0;
+    background-color: lightpink;
+    color: gray;
+}
+
+.links {
+    position: inline;
+    float: right;
     
+
 }
