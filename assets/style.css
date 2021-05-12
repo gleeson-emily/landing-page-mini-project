@@ -2,3 +2,8 @@
     font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
+.header {
+    position: fixed;
+    width: 100%;
+    
+}
